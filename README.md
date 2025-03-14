@@ -27,5 +27,7 @@ A full-featured video call application built with **React**, **JavaScript**, and
    cd zoom-video-call
 
    
+2.Install server dependencies
+  ```bash
 cd frontend
 npm start
