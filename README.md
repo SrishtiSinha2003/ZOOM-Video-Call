@@ -19,8 +19,7 @@ The real-time communication is powered by **WebRTC**, while **Socket.io** handle
 - **Responsive UI**: Built with Material UI for a modern and responsive user interface.
 
 ## Tech Stack
-
-- **Frontend**
+# Frontend
 - React: The frontend is built with React, a popular JavaScript library for building dynamic and responsive user interfaces. React enables smooth transitions between different views and efficient component-based development.
 - JavaScript: Vanilla JavaScript is used alongside React for DOM manipulation, handling asynchronous operations, and managing application state.
 - Material UI: Provides the pre-built, customizable UI components used throughout the application to maintain a consistent and responsive design.
