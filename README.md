@@ -31,3 +31,17 @@ A full-featured video call application built with **React**, **JavaScript**, and
    ```bash
    cd frontend
    npm start
+
+## Dependencies
+# Backend:
+Node.js
+Express.js
+Socket.io
+MongoDB
+bcrypt
+crypto
+# Frontend:
+React
+Material UI
+WebRTC
+Axios   
