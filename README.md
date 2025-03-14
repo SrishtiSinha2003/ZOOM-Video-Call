@@ -25,3 +25,7 @@ A full-featured video call application built with **React**, **JavaScript**, and
    ```bash
    git clone https://github.com/your-username/zoom-video-call.git
    cd zoom-video-call
+
+   
+cd frontend
+npm start
