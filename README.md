@@ -25,6 +25,13 @@ The real-time communication is powered by **WebRTC**, while **Socket.io** handle
 - Material UI: Provides the pre-built, customizable UI components used throughout the application to maintain a consistent and responsive design.
 - CSS: Custom CSS styles are applied to handle specific design aspects, with a focus on making the interface user-friendly and responsive on both desktop and mobile devices.
 
+ # Backend
+- Node.js: Node.js serves as the runtime environment for building the server-side application. It enables the creation of scalable and fast backend APIs to handle requests from the client.
+- Express.js: Express is the framework used for building the backend server, providing routes and middleware for efficient request/response handling.
+- Socket.io: Used for real-time communication between clients, enabling instant data transfer for features like messaging and call notifications.
+- WebRTC: Powers the peer-to-peer video/audio communication capabilities. WebRTC is an open-source project that provides APIs to allow real-time media exchange directly between browsers.
+- Axios: Axios is used to handle HTTP requests between the frontend and backend. It simplifies API calls to the server for tasks like fetching user data, creating new rooms, and updating the call history.
+
 ## Installation
 
 1. Clone the repository:
