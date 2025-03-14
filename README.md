@@ -35,6 +35,10 @@ The real-time communication is powered by **WebRTC**, while **Socket.io** handle
 # Database
 MongoDB: MongoDB is a NoSQL database used to store user information, call history, and room data. It is a scalable and flexible solution, well-suited for storing the JSON-like data structures used in this application.
 
+# Security:
+- bcrypt: Passwords are hashed using bcrypt before being stored in the database, ensuring they are not saved in plain text and remain secure even in the event of a data breach.
+- crypto: The crypto library is used for various encryption tasks, ensuring that sensitive data like tokens or room IDs are securely managed.
+
 ## Installation
 
 1. Clone the repository:
