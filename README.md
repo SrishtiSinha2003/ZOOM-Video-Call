@@ -20,10 +20,11 @@ The real-time communication is powered by **WebRTC**, while **Socket.io** handle
 
 ## Tech Stack
 
-- **Frontend**: React, JavaScript, Material UI, CSS
-- **Backend**: Node.js, Express.js, Socket.io, WebRTC, Axios
-- **Database**: MongoDB
-- **Security**: Bcrypt for password hashing, Crypto for additional encryption
+- **Frontend**
+- React: The frontend is built with React, a popular JavaScript library for building dynamic and responsive user interfaces. React enables smooth transitions between different views and efficient component-based development.
+- JavaScript: Vanilla JavaScript is used alongside React for DOM manipulation, handling asynchronous operations, and managing application state.
+- Material UI: Provides the pre-built, customizable UI components used throughout the application to maintain a consistent and responsive design.
+- CSS: Custom CSS styles are applied to handle specific design aspects, with a focus on making the interface user-friendly and responsive on both desktop and mobile devices.
 
 ## Installation
 
