@@ -32,6 +32,9 @@ The real-time communication is powered by **WebRTC**, while **Socket.io** handle
 - WebRTC: Powers the peer-to-peer video/audio communication capabilities. WebRTC is an open-source project that provides APIs to allow real-time media exchange directly between browsers.
 - Axios: Axios is used to handle HTTP requests between the frontend and backend. It simplifies API calls to the server for tasks like fetching user data, creating new rooms, and updating the call history.
 
+# Database
+MongoDB: MongoDB is a NoSQL database used to store user information, call history, and room data. It is a scalable and flexible solution, well-suited for storing the JSON-like data structures used in this application.
+
 ## Installation
 
 1. Clone the repository:
