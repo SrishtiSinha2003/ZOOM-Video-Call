@@ -11,7 +11,9 @@ The real-time communication is powered by **WebRTC**, while **Socket.io** handle
 - **Screen Sharing**: Share your screen with other participants during the call.The screen share 
                       is updated in real time for all participants in the room, ensuring a 
                        smooth and synchronized experience.
-- **Call History**: View previous call records for registered users.
+- **Call History**: View previous call records for registered users.Guests are provided with the 
+                     same video and audio features but without access to history or other 
+                    personalized features.
 - **Join as Guest**: Start or join calls without needing an account.
 - **Real-time Communication**: Instant audio, video, and chat messaging using Socket.io.
 - **Responsive UI**: Built with Material UI for a modern and responsive user interface.
