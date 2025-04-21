@@ -1,4 +1,4 @@
-# Zoom Video Call Application
+# Zoom Video Call Application 
 
 A comprehensive, feature-rich video call application developed using **React**, **JavaScript**, and **MongoDB**. This project provides a seamless experience for users to conduct video and audio calls with options to sign up, sign in, or join as a guest. Equipped with screen sharing, call history, and a fully secure authentication system, this application is designed to offer high-quality video conferencing similar to popular platforms like Zoom.
 
